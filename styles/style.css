@@ -1,0 +1,325 @@
+.container {
+  font-family: "Popins", sans-serif;
+  background: url(/assets/background\ langit.jpg);
+  color: white;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.display1 {
+  font-family: "Popins", sans-serif;
+}
+
+.button-icon {
+  border-radius: 6px;
+  background: transparent;
+  transition: 0, 25;
+  cursor: pointer;
+  border: none;
+}
+
+.button-icon:hover {
+  background: #eaeaea;
+}
+
+.icon {
+  display: flex;
+  width: 20;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 18px;
+}
+
+.navbar-menu {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px;
+  border-bottom: solid 1px rgb(207, 191, 191);
+  background-color: rgb(240, 238, 238);
+}
+
+.description-contentmenu {
+  color: turquoise;
+}
+.navbar-edit {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  border-bottom: solid 1px rgb(207, 191, 191);
+  background-color: rgb(240, 238, 238);
+}
+.end-menu {
+  border-top: solid 1px rgb(226, 226, 226);
+  background-color: rgb(240, 238, 238);
+  padding-bottom: 12px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.display-contentedit2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.description-contentedit {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: turquoise;
+}
+
+.display-contentedit1 {
+  border-bottom: solid 1px rgb(207, 191, 191);
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar-tambahkan {
+  background-color: rgb(240, 238, 238);
+  display: flex;
+  padding: 10px 20px;
+}
+
+.buttonnavbar-tambahkan {
+  padding-top: 6px;
+  padding-right: 10px;
+}
+
+.description-contenttambahkan {
+  color: rgb(185, 181, 181);
+  padding: 18px 20px;
+  font-size: 14px;
+}
+
+.displaycontent2-tambahkan {
+  display: flex;
+  justify-content: space-between;
+  padding: 2px 20px;
+}
+
+.displaycontent1-tambahkan {
+  display: flex;
+  justify-content: space-between;
+  padding: 6px 10px;
+}
+
+.content-tambahkan {
+  border: solid 1px rgb(185, 181, 181);
+  width: 100px;
+  height: 20px;
+  padding: 10px 10px;
+}
+
+.description-contenttambahkan1 {
+  color: turquoise;
+  text-align: center;
+}
+
+.description-contenttambahkan2 {
+  text-align: center;
+}
+
+.content-tambahkan1 {
+  display: flex;
+  justify-content: space-between;
+  padding: 2px 20px;
+}
+
+.display-navbartambahkan {
+  border-radius: 30px;
+  padding: 4px;
+  background-color: white;
+  align-items: center;
+  width: 600px;
+  display: flex;
+  justify-content: start;
+  color: rgb(240, 238, 238);
+}
+
+.description-contentedit3 {
+  padding-bottom: 4px;
+}
+
+.description-contentedit4 {
+  padding-bottom: 4px;
+  color: turquoise;
+}
+.display-endmenu {
+  padding-top: 4px;
+  display: flex;
+  justify-content: center;
+}
+.display-endmenu1 {
+  padding-bottom: 4px;
+  display: flex;
+  justify-content: center;
+}
+.description-navbarmenu {
+  padding-top: 4px;
+}
+
+.description-navbarmenu1 {
+  color: turquoise;
+  padding-top: 4px;
+}
+
+.display-contentedit2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.content-menu {
+  border-bottom: solid 1px rgb(226, 226, 226);
+  padding: 20px;
+}
+
+.nav-content {
+  display: flex;
+  justify-content: center;
+}
+
+.hero {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.display-content {
+  padding: 80px;
+  margin: 2px;
+}
+
+.description-navcontent {
+  font-size: 100px;
+}
+
+.description-navcontent2 {
+  display: flex;
+  justify-content: center;
+}
+
+.display-descriptioncontent {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  border-bottom: solid 1px rgb(207, 191, 191);
+}
+
+.button-content {
+  display: flex;
+  justify-content: center;
+}
+
+.button-content1 {
+  display: flex;
+  justify-content: center;
+  margin-left: 2px;
+}
+
+.description-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.hero-content {
+  font-size: 8px;
+  margin: 1px;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+
+.note {
+  display: flex;
+  justify-content: space-between;
+  border-top: solid 1px rgb(207, 191, 191);
+  font-size: 14px;
+}
+
+.isi-note {
+  padding: 30px 40px;
+}
+
+.description-note {
+  display: flex;
+}
+
+.isi-note1 {
+  padding-left: 14px;
+}
+
+.isi-note2 {
+  padding-right: 8px;
+}
+
+.isi-note3 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.isi-note4 {
+  padding: 10px 6px;
+}
+
+.isi-note5 {
+  padding-top: 10px;
+  padding-left: 30px;
+}
+
+.isi-note6 {
+  padding-left: 2px;
+}
+
+.isi-note7 {
+  padding: 10px 30px;
+}
+
+.isi-note8 {
+  padding-top: 10px;
+  padding-left: 24px;
+}
+
+.isi-note9 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.isi-note10 {
+  padding-left: 18px;
+}
+
+.isi-note11 {
+  padding: 10px 40px;
+}
+
+.isi-note12 {
+  padding-top: 10px;
+  padding-left: 28px;
+}
+
+.img-note {
+  width: 28px;
+  height: 28px;
+}
+
+.end {
+  display: flex;
+  justify-content: center;
+  border-top: solid 1px rgb(207, 191, 191);
+}
+
+.img-end {
+  width: 120px;
+  height: 70px;
+}

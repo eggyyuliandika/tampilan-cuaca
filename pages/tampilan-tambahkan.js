@@ -12,8 +12,8 @@ export default function Home() {
               <Image
                 className="icon"
                 src="/assets/back.png"
-                width="50"
-                height="50"
+                width="60"
+                height="60"
                 alt="back"
               />
             </Link>

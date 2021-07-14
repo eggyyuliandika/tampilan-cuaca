@@ -312,7 +312,7 @@ export default function Home() {
           <div className="isi-note5">
             <img src="/assets/wind.png" alt="icon angin" class="img-note" />
           </div>
-          <div className="isi-note6">31.3 km/h</div>
+          <div className="isi-note6">SE 31.3 km/h</div>
         </div>
 
         <div className="isi-note7">

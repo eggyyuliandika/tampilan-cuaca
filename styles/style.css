@@ -89,7 +89,7 @@ body {
 }
 
 .buttonnavbar-tambahkan {
-  padding-top: 6px;
+  padding-top: 8px;
   padding-right: 10px;
 }
 
@@ -244,7 +244,7 @@ body {
   display: flex;
   justify-content: space-between;
   border-top: solid 1px rgb(207, 191, 191);
-  font-size: 14px;
+  font-size: 13px;
 }
 
 .isi-note {
@@ -260,12 +260,13 @@ body {
 }
 
 .isi-note2 {
-  padding-right: 8px;
+  padding-right: 10px;
 }
 
 .isi-note3 {
   display: flex;
   justify-content: space-between;
+  font-size: 13px;
 }
 
 .isi-note4 {
@@ -278,7 +279,7 @@ body {
 }
 
 .isi-note6 {
-  padding-left: 4px;
+  padding-left: 12px;
 }
 
 .isi-note7 {
@@ -300,12 +301,13 @@ body {
 }
 
 .isi-note11 {
-  padding: 10px 40px;
+  padding: 10px 44px;
 }
 
 .isi-note12 {
   padding-top: 10px;
-  padding-left: 28px;
+  padding-left: 18px;
+  padding-right: 20px;
 }
 
 .img-note {

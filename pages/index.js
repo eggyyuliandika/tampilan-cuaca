@@ -23,14 +23,16 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="display-content">
-        <div className="nav-content">
-          <div className="description-navcontent">28</div>
-          <div>
-            <sup className="hero">o</sup>
+      <div>
+        <div className="display-content">
+          <div className="nav-content">
+            <div className="description-navcontent">28</div>
+            <div>
+              <sup className="hero">o</sup>
+            </div>
           </div>
+          <div className="description-navcontent2">Sedikit Berawan</div>
         </div>
-        <div className="description-navcontent2">Sedikit Berawan</div>
       </div>
 
       <div className="display-descriptioncontent">

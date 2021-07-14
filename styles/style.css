@@ -33,6 +33,15 @@ body {
   justify-content: space-between;
   padding: 18px;
 }
+.display-navbar {
+  position: fixed;
+  background-color: transparent;
+}
+
+.display-navbar1 {
+  display: flex;
+  justify-content: space-between;
+}
 
 .navbar-menu {
   display: flex;
@@ -197,6 +206,10 @@ body {
   margin: 2px;
 }
 
+.display-content1 {
+  padding: 10px;
+}
+
 .description-navcontent {
   font-size: 100px;
 }
@@ -283,7 +296,7 @@ body {
 }
 
 .isi-note7 {
-  padding: 10px 30px;
+  padding: 10px 10px;
 }
 
 .isi-note8 {
@@ -301,7 +314,7 @@ body {
 }
 
 .isi-note11 {
-  padding: 10px 44px;
+  padding: 10px 38px;
 }
 
 .isi-note12 {

@@ -40,19 +40,7 @@ export default function Home() {
         <div className="displaycontent1-tambahkan">
           <div>
             <div className="content-tambahkan">
-              <div className="description-contenttambahkan1">
-                Posisi
-                <sup>
-                  <button className="button-icon">
-                    <Image
-                      className="icon"
-                      src="/assets/icon/paper-plane-outline.svg"
-                      width="8"
-                      height="8"
-                    />
-                  </button>
-                </sup>
-              </div>
+              <div className="description-contenttambahkan1">Posisi</div>
             </div>
           </div>
 

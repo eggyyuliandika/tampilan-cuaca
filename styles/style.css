@@ -95,7 +95,7 @@ body {
 
 .description-contenttambahkan {
   color: rgb(185, 181, 181);
-  padding: 18px 20px;
+  padding: 18px 12px;
   font-size: 14px;
 }
 
@@ -113,7 +113,7 @@ body {
 
 .content-tambahkan {
   border: solid 1px rgb(185, 181, 181);
-  width: 100px;
+  width: 90px;
   height: 20px;
   padding: 10px 10px;
 }
@@ -278,7 +278,7 @@ body {
 }
 
 .isi-note6 {
-  padding-left: 2px;
+  padding-left: 4px;
 }
 
 .isi-note7 {
